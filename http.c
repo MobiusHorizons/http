@@ -4,9 +4,9 @@
 #include <stdbool.h>
 #include <string.h>
 
-#include "./deps/http/http.h"
-#include "./deps/stream/stream.h"
-#include "./deps/stream/file.h"
+#include "deps/http/http.h"
+#include "deps/stream/stream.h"
+#include "deps/stream/file.h"
 
 
 char * headers[] = {
